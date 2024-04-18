@@ -1,3 +1,3 @@
 # Python-Speech-Recognition
-For work
+Assignment from work (python)
 
